@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>VASD2!!@@@@asdasdasd</p>
+        <p>Change by feature branch</p>
 
         <a
           className="App-link"
